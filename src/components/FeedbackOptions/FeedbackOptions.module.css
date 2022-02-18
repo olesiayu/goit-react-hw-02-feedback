@@ -1,4 +1,4 @@
-button {
+.button {
   width: 60px;
   padding: 5px;
   margin: 5px;
@@ -7,10 +7,10 @@ button {
   border: none;
 }
 
-button:first-child {
+.button:first-child {
   background-color: rgb(98, 207, 98);
 }
 
-button:last-child {
+.button:last-child {
   background-color: red;
 }
